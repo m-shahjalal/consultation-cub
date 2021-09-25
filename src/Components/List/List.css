@@ -1,0 +1,32 @@
+.list {
+	display: flex;
+	align-items: center;
+	position: relative;
+	background-color: #e7f2f8;
+	margin: 8px 0;
+	border-radius: 5px;
+	padding: 0 5px;
+}
+
+.list-image {
+	width: 40px;
+	height: 40px;
+	object-fit: cover;
+}
+.list-name {
+	margin-left: 10px;
+}
+.cross {
+	border: none;
+	background: rgba(0, 0, 0, 0);
+	cursor: pointer;
+	position: absolute;
+	right: 0;
+	top: 15px;
+	opacity: 0;
+	transition: all 0.3s ease-in-out;
+}
+
+.list:hover .cross {
+	opacity: 1;
+}

@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Askas Jeremy",
+		"age": 39,
+		"profession": "Businessman",
+		"image": "7TI-3jUObYg",
+		"demands": 50000
+	},
+	{
+		"name": "bruce mars",
+		"age": 33,
+		"profession": "Businessman",
+		"image": "8YG31Xn4dSw",
+		"demands": 40000
+	},
+	{
+		"name": "Dahiana Waszaj",
+		"age": 28,
+		"profession": "Cook",
+		"image": "XQWfro4LrVs",
+		"demands": 42000
+	},
+	{
+		"name": "humberto chavez",
+		"age": 41,
+		"profession": "Doctor",
+		"image": "FVh_yqLR9eA",
+		"demands": 75000
+	},
+	{
+		"name": "Geo Chierchia",
+		"age": 27,
+		"profession": "Musician",
+		"image": "o-9-fSSiCT0",
+		"demands": 60000
+	},
+	{
+		"name": "Etty Fidele",
+		"age": 27,
+		"profession": "Businessman",
+		"image": "VNYCIbZju0o",
+		"demands": 450000
+	}
+]

@@ -1,0 +1,9 @@
+.total {
+	background: #ffffff;
+	padding: 20px;
+	border-radius: 10px;
+}
+.flex-cart {
+	display: flex;
+	justify-content: space-between;
+}

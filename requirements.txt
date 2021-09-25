@@ -1,27 +1,27 @@
 Must to do requirements:
-1. create a json file with fake data
-2. data field has to be at least 5 keys with a numeric field
-3. create a heading option with relevant things
-4. create a 3 columns grid layout
-5. at least have to create 3 cards
-6. have to use keys in map higher order functions
-7. total budget 
+++1. create a json file with fake data
+++2. data field has to be at least 5 keys with a numeric field
+++3. create a heading option with relevant things
+++4. create a 3 columns grid layout
+++5. at least have to create 3 cards
+++6. have to use keys in map higher order functions
+++7. total budget 
 
 
 bonus requirements
-1. destructuring
-2. icon
-3. edit readme.md file
+++1. destructuring
+++2. icon
+++3. edit readme.md file
     > give a title to top level
     > give a link to the project live site
     > give a at least 3 bullet points about your project
 
 
 Optional requirements
-1. responsiveness
-2. framework using
-3. background image
-4. card image circular
-5. use local storage
-6. hover effect
-7. cross button
+-1. responsiveness
+-2. framework using
+-3. background image
+-4. card image circular
+-5. use local storage
+-6. hover effect
+-7. cross button

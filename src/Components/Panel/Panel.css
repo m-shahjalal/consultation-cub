@@ -1,0 +1,30 @@
+.panel {
+	margin: auto;
+	margin-top: 80px;
+	margin-bottom: 50px;
+}
+.panel-head {
+	text-align: center;
+	font-weight: 700;
+	border: 0px;
+	line-height: 10px;
+	font-size: 1.5rem;
+	font-weight: 500;
+}
+.panel-body {
+	display: flex;
+	grid-template-columns: 3fr 1fr;
+	gap: 30px;
+}
+.panel-member {
+	width: 70%;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap: 20px;
+	background: #ffffff;
+	padding: 50px 30px;
+	border-radius: 10px;
+}
+.cart {
+	width: 30%;
+}

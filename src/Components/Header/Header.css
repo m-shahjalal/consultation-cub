@@ -1,0 +1,22 @@
+.header {
+	background: rgb(255, 255, 255);
+	margin: auto;
+	padding: 20px 40px;
+	border-radius: 0 0 15px 15px;
+	text-align: center;
+}
+
+.lead {
+	color: #43b4f1;
+	text-align: center;
+	font-weight: 700;
+	font-size: 3rem;
+	border: 0px;
+	line-height: 10px;
+}
+.text {
+	font-weight: 300;
+}
+.budget {
+	font-weight: 400;
+}
